@@ -6,7 +6,7 @@ Display a spinner in the center of the map while layers are loading: pan, zoom, 
 toggled on in the legend, filter applied... Users know the map is still loading and
 do not click again while waiting.
 
-![Map loading spinner](demo.png)
+![Map loading spinner](demo.PNG)
 
 ## How it works
 
